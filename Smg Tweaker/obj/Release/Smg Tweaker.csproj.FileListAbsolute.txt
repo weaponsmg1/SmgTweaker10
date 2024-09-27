@@ -1,0 +1,10 @@
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\bin\Release\Smg Tweaker.exe.config
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\bin\Release\Smg Tweaker.exe
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\bin\Release\Smg Tweaker.pdb
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\obj\Release\Smg Tweaker.csproj.AssemblyReference.cache
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\obj\Release\Smg_Tweaker.Main.resources
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\obj\Release\Smg_Tweaker.Properties.Resources.resources
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\obj\Release\Smg Tweaker.csproj.GenerateResource.cache
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\obj\Release\Smg Tweaker.csproj.CoreCompileInputs.cache
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\obj\Release\Smg Tweaker.exe
+C:\Users\weapon_smg1\source\repos\Smg Tweaker\Smg Tweaker\obj\Release\Smg Tweaker.pdb
