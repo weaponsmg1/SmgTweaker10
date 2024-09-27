@@ -6,16 +6,12 @@ Simple Tweaker for Windows 10
 -Taskbar Customization
 
 More features will come with updates:)
-
 # Viruses?
-
 No, you can view the source code right now
 
 # Windows 11
-
 I haven't tested it, but I will probably make a separate Tweaker for Windows 11
-
-#Screenshots
+# Screenshots
 
 ![1](https://github.com/user-attachments/assets/79093ab6-ee67-4ead-9209-7656d3b070d6)
 
