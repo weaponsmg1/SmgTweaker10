@@ -2,11 +2,17 @@
 Simple Tweaker for Windows 10
 # Functional
 -UWP Apps Remove
+
 -Taskbar Customization
+
 More features will come with updates:)
+
 #Viruses
+
 No, you can view the source code right now
+
 #Screenshots
+
 ![1](https://github.com/user-attachments/assets/79093ab6-ee67-4ead-9209-7656d3b070d6)
 
 ![2](https://github.com/user-attachments/assets/d15c301e-cd32-46de-a9ae-bd0b0006d6b0)
