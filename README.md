@@ -7,7 +7,7 @@ Simple Tweaker for Windows 10
 
 More features will come with updates:)
 
-#Viruses
+# Viruses
 
 No, you can view the source code right now
 
