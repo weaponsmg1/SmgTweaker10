@@ -7,9 +7,13 @@ Simple Tweaker for Windows 10
 
 More features will come with updates:)
 
-# Viruses
+# Viruses?
 
 No, you can view the source code right now
+
+# Windows 11
+
+I haven't tested it, but I will probably make a separate Tweaker for Windows 11
 
 #Screenshots
 
