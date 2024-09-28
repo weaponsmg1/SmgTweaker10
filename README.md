@@ -1,4 +1,6 @@
 # Smg Tweaker 10
+![smgicon](https://github.com/user-attachments/assets/87d4d442-732d-4dd3-b81f-297ab28e5878)
+
 Simple Tweaker for Windows 10
 # Functional
 -UWP Apps Remove
